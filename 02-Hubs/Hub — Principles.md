@@ -14,7 +14,7 @@ This hub, aliased "Metodologia Gabriel," collects the working principles that sh
 
 ## Contained clusters
 
-The core loop is [[Iterative Refinement]] paired with [[Fail Fast, Fail Cheap]] and [[Show Don't Tell]] — get something real in front of yourself quickly. [[Constraints Before Features]] and [[Document The Why]] keep that speed from turning into chaos. [[Big Model Designs, Small Model Executes]] is how these principles scale to agent-driven work.
+The core loop is [[Iterative Refinement]] paired with [[Fail Fast, Fail Cheap]] and [[Show Don't Tell]] — get something real in front of yourself quickly. [[Constraints Before Features]] and [[Document The Why]] keep that speed from turning into chaos. [[Big Model Designs, Small Model Executes]] is how these principles scale to agent-driven work, and [[Principle — Knowledge Lifecycle]] is how a single note is expected to move through this vault over time.
 
 ```dataview
 LIST FROM "" WHERE domain = "principles" AND type != "hub" SORT file.mtime DESC
@@ -22,4 +22,4 @@ LIST FROM "" WHERE domain = "principles" AND type != "hub" SORT file.mtime DESC
 
 ## Related hubs
 
-Underpins nearly every other hub, most visibly [[Hub — Automation]] (via [[Big Model Designs, Small Model Executes]]) and [[Hub — Knowledge Base]] (via [[Document The Why]] and [[Decision — Vault Architecture v1]]), and reports up to [[Hub — JARVIS OS Core]].
+Underpins nearly every other hub, most visibly [[Hub — Automation]] (via [[Big Model Designs, Small Model Executes]]) and [[Hub — Knowledge Base]] (via [[Document The Why]] and [[Decision — Vault Architecture v1]]). [[Hub — Vault Maintenance]] shares this domain and turns [[Principle — Knowledge Lifecycle]] into a weekly/monthly/quarterly practice. Reports up to [[Hub — JARVIS OS Core]].
