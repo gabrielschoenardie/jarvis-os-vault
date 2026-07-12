@@ -22,4 +22,4 @@ LIST FROM "" WHERE domain = "knowledge-base" AND type != "hub" SORT file.mtime D
 
 ## Related hubs
 
-Structurally underpins every hub in this vault, and connects to [[Hub — Memory System]] since the note graph this method produces is what [[Bridge — Vault as Mind]] renders.
+Structurally underpins every hub in this vault, and connects to [[Hub — Memory System]] since the note graph this method produces is what [[Bridge — Vault as Mind]] renders. It also links back to [[Hub — JARVIS OS Core]] as the root hub for the vault.
